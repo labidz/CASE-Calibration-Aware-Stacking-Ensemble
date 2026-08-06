@@ -166,19 +166,6 @@ benchmark results.
 
 ---
 
-## Citation
-
-If you use this code or results, please cite:
-
-```bibtex
-@article{amin2025benchmark,
-  title   = {A Comprehensive Benchmark of Machine Learning Models for Tabular Data:
-             Multi-Domain Evaluation and a Calibration-Aware Stacking Ensemble},
-  author  = {Amin, Md. Rohul and Aktar, Sumya and Rana, Md. Mehedi Rahman and Akter, Zakia},
-  journal = {[Journal Name]},
-  year    = {2025}
-}
-```
 
 ---
 
