@@ -1,0 +1,14 @@
+# main environment (Python 3.13.18)
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1
+scikit-learn==1.9.1
+xgboost==3.4.1
+lightgbm==4.7.0
+catboost==1.2.10
+imbalanced-learn==0.14.2
+matplotlib==3.11.2
+pyyaml
+# separate environment for run_automl.py (Python 3.12):
+#   autogluon.tabular==1.6.3, tabpfn==0.1.11, torch==2.13.0
+#   (tabpfn 0.1.11 needs two one-line import/keyword fixes for current torch/sklearn; see README)
